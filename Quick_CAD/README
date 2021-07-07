@@ -1,0 +1,10 @@
+Mira Liu
+7/6/21
+Written code for imaging practicum I for the University of Chicago Medical Physics program
+
+nodule.dat         ; sample data (nodules) for sample_lin_disc.m
+non-nodule.dat     ; sample data (non-nodules) for sample_lin_disc.m
+Exp1.m 		  ; Runs segmentation, LoG, and connected component labelling for 6 lung CT cases
+Exp4.m 		  ; Runs LDA and creates FROC curve
+
+
